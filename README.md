@@ -1,2 +1,2 @@
 # gonesbowl.github.io
-Landing page for Gônes Bowl
+The landing page for Gônes Bowl (https://gonesbowl.github.io/).
