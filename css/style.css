@@ -99,3 +99,22 @@ nav li a {
     float: left;
 }
 
+.teamHeader {
+    background-color: red;
+    color: white;
+}
+
+.teamHeaderTitle {
+    font-size: 2em;
+    text-align: center;
+}
+
+.teamHeaderPossibilitePret {
+    font-size: 1.5em;
+}
+
+.teamFooter {
+    background-color: Blue;
+    color: white;
+    font-weight: bold;
+}
