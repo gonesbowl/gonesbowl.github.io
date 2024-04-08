@@ -46,6 +46,10 @@ p {
     /*list-style-type: disc !important;*/
 }
 
+.ball-bullets ul li{
+    list-style-image:url('../img/ball-bullet.png');
+}
+
 footer.page-footer {
   margin: 0;
 }
