@@ -1,3 +1,7 @@
+body {
+    background-color: #333333;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -121,4 +125,9 @@ nav li a {
     background-color: Blue;
     color: white;
     font-weight: bold;
+}
+
+.parchment {
+    background-color: #f4e6d2;
+    padding: 30px;
 }
