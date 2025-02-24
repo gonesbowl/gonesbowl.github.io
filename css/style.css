@@ -132,12 +132,13 @@ nav li a {
     padding: 30px;
 }
 
-.odd-row {
+tr.team-row:nth-child(odd) {
     background-color: #8ccdee;
     color: #666666;
 }
 
-.even-row {
+tr.team-row:nth-child(even) {
     background-color: #b1daf1;
     color: #333333;
 }
+
