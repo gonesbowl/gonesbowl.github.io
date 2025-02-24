@@ -108,7 +108,7 @@ nav li a {
 }
 
 .teamHeader {
-    background-color: red;
+    background-color: #cc4444;
     color: white;
 }
 
@@ -122,7 +122,7 @@ nav li a {
 }
 
 .teamFooter {
-    background-color: Blue;
+    background-color: #4444cc;
     color: white;
     font-weight: bold;
 }
@@ -130,4 +130,14 @@ nav li a {
 .parchment {
     background-color: #f4e6d2;
     padding: 30px;
+}
+
+.odd-row {
+    background-color: #8ccdee;
+    color: #666666;
+}
+
+.even-row {
+    background-color: #b1daf1;
+    color: #333333;
 }
